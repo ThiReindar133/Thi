@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there 👋 
+
+I am an Enviornmental Engineer, exploring new things in TECH! 
+
+
+- 🌱 I’m currently learning Data Analytics.
 
 <!--
 **ThiReindar133/ThiReindar133** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
